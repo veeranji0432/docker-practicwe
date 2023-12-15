@@ -1,0 +1,3 @@
+FROM almalinux
+ENV NAME="ANJI"\
+    COURSE="DOCKER"
