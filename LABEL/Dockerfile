@@ -1,4 +1,4 @@
 FROM almalinux
 LABEL NAME="ANJI"\
       COURSE="DOCKER"
-      DURATION="25H"
+      DURATION="25HRS"
