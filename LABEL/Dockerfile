@@ -1,0 +1,4 @@
+FROM almalinux
+LABEL NAME="ANJI"\
+      COURSE="DOCKER"
+      DURATION="25H"
